@@ -7,8 +7,9 @@ diverse population. Among the various type of questions included in the survey, 
 component called an OS (Other Specify) response. This is an open text category included to allow respondents to include a short response if they feel the other 
 responses do not cover their response. An example of such a question is: 
 
-‘QA19_C15’ [AC83C] - What best describes your reasons for using e-cigarettes?
-Check all that apply
+**‘QA19_C15’ [AC83C]** - What best describes your reasons for using 
+e-cigarettes?
+*Check all that apply*
 - 1 To quit smoking
 - 2 To replace smoking
 - 3 To cut down or reduce smoking
@@ -32,5 +33,5 @@ process of OS reponse classification (OS upcoding).
 
 ## Methods
 
-...
+coming soon...
 

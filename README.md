@@ -5,11 +5,17 @@
 The California Health Interview Survey (CHIS) is a leading source of credible and comprehensive data on the health and healtcare needs of California’s large and 
 diverse population. Among the various type of questions included in the survey, one is structured with an additional 
 component called an OS (Other Specify) response. This is an open text category included to allow respondents to include a short response if they feel the other 
-responses do not cover their response. An example of such a question is: 
+responses do not cover their response. 
+
+An example of such a question is: 
+
+---
 
 **‘QA19_C15’ [AC83C]** - What best describes your reasons for using 
 e-cigarettes?
+
 *Check all that apply*
+
 - 1 To quit smoking
 - 2 To replace smoking
 - 3 To cut down or reduce smoking
@@ -24,6 +30,8 @@ e-cigarettes?
 - 12 To reduce stress, anxiety, or pain
 - 91 Other (Specify: ____________).
 
+---
+
 One way to facilitate analysis is to attempt to either include these OS responses in categories included in the question, or inlcude them in newly created categories 
 indentified from trends seen in the text data. Usually this task requires large amounts of time for human review, as well as extensive training in the task. 
 Therefore, it is of interest to find a method by which this process can be automated. The task basically amounts to a text classification problem. Machine learning 
@@ -33,5 +41,4 @@ process of OS reponse classification (OS upcoding).
 
 ## Methods
 
-coming soon...
-
+Lorem ipsum
